@@ -1,0 +1,11 @@
+query,response
+"How to install Python?","You can install Python from the official website (python.org). Download the installer for your operating system and run it."
+"What is a virtual environment?","A virtual environment is an isolated Python environment that allows you to install packages separately from your system Python. You can create one using 'python -m venv myenv'."
+"How to upgrade pip?","You can upgrade pip by running 'python -m pip install --upgrade pip' in your command line or terminal."
+"Difference between list and tuple?","Lists are mutable (can be modified) while tuples are immutable (cannot be modified after creation). Lists use square brackets [], tuples use parentheses ()."
+"How to check Python version?","Run 'python --version' or 'python -V' in your command line/terminal to check the installed Python version."
+"What is PIP?","PIP is the Python package installer. It allows you to install and manage additional packages that are not part of the Python standard library."
+"How to create a Python script?","Create a file with a .py extension (e.g., script.py), write your Python code in it, and run it with 'python script.py'."
+"What is __init__.py?","This file makes a directory a Python package. It can be empty or contain initialization code for the package."
+"How to install a package with pip?","Use the command 'pip install package-name' to install a Python package from PyPI (Python Package Index)."
+"How to uninstall a package?","Use 'pip uninstall package-name' to remove a Python package that was installed with pip."python models/train_model.py
